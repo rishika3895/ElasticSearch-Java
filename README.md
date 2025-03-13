@@ -1,6 +1,7 @@
 # Elasticsearch with Java Spring Boot
 
 This application demonstrates the integration of Elasticsearch Cloud with Spring Boot, providing a powerful search engine for a product catalog with advanced search capabilities.
+
 <img src="docs/images/Screenshot 2025-03-13 at 13.21.03.png" alt="Elasticsearch Search" width="800"/>
 
 ## Features
