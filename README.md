@@ -34,7 +34,7 @@ The application uses the following configurations:
 
 ### Search Interface
 
-![Elasticsearch Search Results](docs/images/search-results.png)
+<img src="docs/images/search-results.png" alt="Elasticsearch Search Results" width="800"/>
 
 The search interface demonstrates:
 - Clean and intuitive user interface
