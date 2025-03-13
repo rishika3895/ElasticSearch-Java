@@ -32,6 +32,16 @@ The application uses the following configurations:
 - **Security**: SSL context and basic authentication for Elasticsearch Cloud
 - **UI**: Built with Spring Boot, Thymeleaf, and Bootstrap
 
+### Search Interface
+
+![Elasticsearch Search Results](docs/images/search-results.png)
+
+The search interface demonstrates:
+- Clean and intuitive user interface
+- Fuzzy search capabilities
+- Search performance metrics
+- Pagination support
+
 ## Notes
 
 - Elasticsearch provides advanced search capabilities like relevance scoring and fuzzy matching
